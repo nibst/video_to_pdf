@@ -8,5 +8,5 @@ Needless to say, this is very slow and will output large pdfs in case of somewha
 python video_to_pdf.py -v <path_to_video> -o <name_of_output.pdf>
 ```
 That's it.
-![alt text](https://github.com/nibst/video_to_pdf/images/video_to_pdf.jpeg "meme")
+![alt text](vhttps://github.com/nibst/video_to_pdf/tree/main/images/video_to_pdf.jpeg "meme")
 
