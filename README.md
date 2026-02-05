@@ -9,4 +9,10 @@ python video_to_pdf.py -v <path_to_video> -o <name_of_output.pdf>
 ```
 That's it.
 ![alt text](https://github.com/nibst/video_to_pdf/raw/main/images/video_to_pdf.jpeg "meme")
+### Translation
 
+> Convert to pdf
+
+>This video
+
+>Is it possible Diego?
