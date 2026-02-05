@@ -1,0 +1,3 @@
+opencv-python==4.13.0.90
+pillow==11.3.0
+pypdf==6.6.2
